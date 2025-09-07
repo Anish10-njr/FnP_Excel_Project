@@ -10,10 +10,10 @@ The dataset contains details about products, orders, customers, and delivery dat
 
 ## Tools & Technologies:
 
---Microsoft Excel
---Power Query Editor (data cleaning & transformation)
---Power Pivot (data modeling & measures)
---Charts and Slicers (interactive dashboard design)
+- Microsoft Excel
+- Power Query Editor (data cleaning & transformation)
+- Power Pivot (data modeling & measures)
+- Charts and Slicers (interactive dashboard design)
 
 ## Problem Statements:
 
@@ -45,6 +45,12 @@ The dataset contains details about products, orders, customers, and delivery dat
 
 🔗 [LinkedIn](https://www.linkedin.com/in/anish-mukherjee/)  
 ✉️ mukherjeeanish220@gmail.com
+
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify it for your own purposes.
+
 
 
 
