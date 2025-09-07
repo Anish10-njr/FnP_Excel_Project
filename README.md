@@ -17,31 +17,34 @@ The dataset contains details about products, orders, customers, and delivery dat
 
 ## Problem Statements:
 
-1.The dashboard answers the following key business questions:
-2.What is the total revenue?
-3.What are the average order and delivery times?
-4.How do monthly sales fluctuate across 2023?
-5.Which are the top products by revenue?
-6.What is the average customer spend?
-7.How do the top 5 products perform in sales?
-8.Which are the top 10 cities by number of orders?
-9.Does order quantity impact delivery time?
-10.How does revenue compare between occasions?
-11.Which products are most popular by occasion?
+1. The dashboard answers the following key business questions:
+2. What is the total revenue?
+3. What are the average order and delivery times?
+4. How do monthly sales fluctuate across 2023?
+5. Which are the top products by revenue?
+6. What is the average customer spend?
+7. How do the top 5 products perform in sales?
+8. Which are the top 10 cities by number of orders?
+9. Does order quantity impact delivery time?
+10. How does revenue compare between occasions?
+11. Which products are most popular by occasion?
 
 ## Key Insights:
 
--Generated ₹35.2 Lakhs in total revenue from 1,000 orders.
--Average customer spend is ₹3,520.98.
--Clear seasonal peaks observed around major occasions.
--Identified top-performing products and cities contributing most to sales.
--Delivery time analysis provides opportunities for operational improvement.
+- Generated ₹35.2 Lakhs in total revenue from 1,000 orders.
+- Average customer spend is ₹3,520.98.
+- Clear seasonal peaks observed around major occasions.
+- Identified top-performing products and cities contributing most to sales.
+- Delivery time analysis provides opportunities for operational improvement.
 
 
 <img width="1638" height="639" alt="FnP_Dashboard_Image" src="https://github.com/user-attachments/assets/7433b212-8971-4e39-ac76-a36d788d2cf7" />
 
 
+## 📬 Contact
 
+🔗 [LinkedIn](https://www.linkedin.com/in/anish-mukherjee/)  
+✉️ mukherjeeanish220@gmail.com
 
 
 
