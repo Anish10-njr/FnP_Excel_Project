@@ -1,5 +1,8 @@
 # Ferns and Petals Sales Analysis Dashboard (Interactive Dashboard Creation Using MS-Excel)
 
+<img width="1332" height="612" alt="637f3bcf749a773914b0c120_Artboard 1 copy 3NEW" src="https://github.com/user-attachments/assets/a1082f80-0cb2-4460-9099-0a31b4e8af5f" />
+
+
 ## Project Overview:
 This project presents a Sales Analysis Dashboard for Ferns and Petals (FNP), a company specializing in delivering gifts for occasions such as Diwali, Raksha Bandhan, Holi, Valentine’s Day, Birthdays, and Anniversaries.
 
